@@ -12,9 +12,14 @@ namespace Taskmanager
         private Task[] liste;
         private int Count = 0;
 
-        public void addTask(Task task)
+        public Taskmanager()
         {
-            liste[Count] = task;
+
+        }
+
+        public void addTask(string discription)
+        {
+            liste[Count] = new Task(discription);
             Count++;
         }
 
@@ -27,15 +32,9 @@ namespace Taskmanager
 
         }
 
-        public void markTaskAsCompleted(int id)
+        public void markTaskAsCompleted(int num)
         {
-            foreach (Task task in liste)
-            {
-                if (task.Id == id)
-                {
-                    task.Completed = true;
-                }
-            }
+            liste[num].Completed = true;
         }
 
         public void showCompletedTasks()

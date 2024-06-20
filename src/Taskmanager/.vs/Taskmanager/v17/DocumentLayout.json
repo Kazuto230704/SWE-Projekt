@@ -3,19 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\SWE-Projekt\\src\\Taskmanager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E1801D59-8701-403D-8D07-9DD6FBA7EA38}|Taskmanager.csproj|c:\\users\\user\\source\\repos\\swe-projekt\\src\\taskmanager\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1801D59-8701-403D-8D07-9DD6FBA7EA38}|Taskmanager.csproj|solutionrelative:taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1801D59-8701-403D-8D07-9DD6FBA7EA38}|Taskmanager.csproj|c:\\users\\user\\source\\repos\\swe-projekt\\src\\taskmanager\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1801D59-8701-403D-8D07-9DD6FBA7EA38}|Taskmanager.csproj|solutionrelative:task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E1801D59-8701-403D-8D07-9DD6FBA7EA38}|Taskmanager.csproj|C:\\Users\\user\\source\\repos\\SWE-Projekt\\src\\Taskmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1801D59-8701-403D-8D07-9DD6FBA7EA38}|Taskmanager.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1801D59-8701-403D-8D07-9DD6FBA7EA38}|Taskmanager.csproj|c:\\users\\user\\source\\repos\\swe-projekt\\src\\taskmanager\\task_diagram.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "AbsoluteMoniker": "D:0:0:{E1801D59-8701-403D-8D07-9DD6FBA7EA38}|Taskmanager.csproj|C:\\Users\\user\\source\\repos\\SWE-Projekt\\src\\Taskmanager\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1801D59-8701-403D-8D07-9DD6FBA7EA38}|Taskmanager.csproj|solutionrelative:task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1801D59-8701-403D-8D07-9DD6FBA7EA38}|Taskmanager.csproj|c:\\users\\user\\source\\repos\\swe-projekt\\src\\taskmanager\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1801D59-8701-403D-8D07-9DD6FBA7EA38}|Taskmanager.csproj|solutionrelative:taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1801D59-8701-403D-8D07-9DD6FBA7EA38}|Taskmanager.csproj|C:\\Users\\user\\source\\repos\\SWE-Projekt\\src\\Taskmanager\\task_diagram.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
       "RelativeMoniker": "D:0:0:{E1801D59-8701-403D-8D07-9DD6FBA7EA38}|Taskmanager.csproj|solutionrelative:task_diagram.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
     }
   ],
@@ -26,8 +26,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -36,20 +40,20 @@
               "RelativeDocumentMoniker": "Task.cs",
               "ToolTip": "C:\\Users\\user\\source\\repos\\SWE-Projekt\\src\\Taskmanager\\Task.cs",
               "RelativeToolTip": "Task.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-20T08:54:21.951Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Taskmanager.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SWE-Projekt\\src\\Taskmanager\\Taskmanager.cs",
               "RelativeDocumentMoniker": "Taskmanager.cs",
               "ToolTip": "C:\\Users\\user\\source\\repos\\SWE-Projekt\\src\\Taskmanager\\Taskmanager.cs",
               "RelativeToolTip": "Taskmanager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCQAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-20T08:48:58.39Z",
               "EditorCaption": ""
@@ -68,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SWE-Projekt\\src\\Taskmanager\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",

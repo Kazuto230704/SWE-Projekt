@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Cryptography;
 using System.Text;
 
 namespace Taskmanager
@@ -15,12 +16,15 @@ namespace Taskmanager
         public string Discription { set; get; }
         public bool Completed { set; get; }
 
+        Random rnd = new Random();
+        int num = rnd.NextInt(0, 100);
 
-        public Task(int id, string discription, bool completed)
+        public Task(string discription)
         {
-            Id = id;
+
+            Id = num;
             Discription = discription;
-            Completed = completed;
+            Completed = false;
         }
     }
 }
