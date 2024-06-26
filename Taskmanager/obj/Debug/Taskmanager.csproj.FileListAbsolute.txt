@@ -1,0 +1,2 @@
+C:\Users\user\source\repos\SWE-Projekt\src\Taskmanager\obj\Debug\Taskmanager.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\SWE-Projekt\src\Taskmanager\obj\Debug\Taskmanager.csproj.CoreCompileInputs.cache
